@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ExamenEneroMario</string>
+    <string name="nombre">Nombre</string>
+    <string name="fecha">Fecha</string>
+    <string name="completada">Completada</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="guardar">Guardar</string>
+    <string name="volver">Volver</string>
+    <string name="completar">Completar</string>
+    <string name="modificar">Modificar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="enviar">Enviar</string>
+    <string name="cambiarFuente">Cambiar fuente</string>
+
+</resources>

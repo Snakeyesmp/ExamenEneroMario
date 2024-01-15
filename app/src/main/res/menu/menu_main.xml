@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/cambiarFuente"
+        android:title="@string/cambiarFuente"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuitem_completar"
+        android:title="@string/completar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuitem_modificar"
+        android:title="@string/modificar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuitem_eliminar"
+        android:title="@string/eliminar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuitem_enviar"
+        android:title="@string/enviar"
+        app:showAsAction="never" />
+
+
+</menu>

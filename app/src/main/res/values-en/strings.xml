@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExamenEneroMario</string>
+    <string name="nombre">Name</string>
+    <string name="fecha">Date</string>
+    <string name="completada">Compelted</string>
+    <string name="limpiar">Clean</string>
+    <string name="guardar">Save</string>
+    <string name="volver">Back</string>
+    <string name="completar">Complete</string>
+    <string name="modificar">Modify</string>
+    <string name="eliminar">Delete</string>
+    <string name="enviar">Send</string>
+    <string name="cambiarFuente">Cambiar fuente</string>
+
+</resources>
